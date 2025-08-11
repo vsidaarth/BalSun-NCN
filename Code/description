@@ -1,1 +1,3 @@
 This is including all code related to project
+It involves python files that convert the google earth data for some criteris such as the power lines and the power stations. 
+This is converted to qjson which can be used in QGIS. Then also some excel files where is same data is converted to is present. 
