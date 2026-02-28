@@ -1,5 +1,0 @@
-For the latest best solar farm locations in dolnoslaskie please access the files DAINA_MCDM_09_11_Ver4.ipynb and final_df_250m_new_15_01_2026.csv. The CSV file can be found in the link below: 
-
-Link: https://politechnikawroclawska-my.sharepoint.com/:x:/g/personal/vishnu_suresh_pwr_edu_pl/IQDXS1Co_jRzQ5Hk-ucNNLAXAUSLnmVnVDt8EK8MLhFrrRI?e=FrKRZx
-
-The CSV file has all the criterias' values for the entire region and the ipynb notebook has 3 MCDM methods which uses the data from the csv file to get the locations. 
